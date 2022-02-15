@@ -1,0 +1,2 @@
+class TackController < ApplicationController
+end
